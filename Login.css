@@ -1,0 +1,27 @@
+.body {
+    background-image: url("kbk.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 829px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: repeat;
+    
+    
+   
+  }
+  
+
+  .overlay {
+    background-color: rgba(129, 129, 129, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .overlayy {
+  text-align: start;
+    
+   margin: 10px;
+  }
+  

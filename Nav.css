@@ -1,0 +1,16 @@
+.navbar-nav .nav-item a.nav-link {
+    color: white;
+    margin-right: 40px;
+   
+  }
+ 
+  .navbar-nav .nav-item a.nav-link:hover {
+    color: rgb(0, 255, 242);
+   
+ 
+   
+  }
+  .rounded .float-end .m-4{
+    border-radius: 50px;
+  }
+  
